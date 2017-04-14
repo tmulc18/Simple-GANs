@@ -1,3 +1,4 @@
 Data/*
 *.pyc
 !Data/.placeholder
+.ipynb_checkpoints/*
